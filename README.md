@@ -3,6 +3,9 @@ Over the years there were some scraper options for some data but I didn't really
 If you find this useful, great, I don't want any donations, just say Thanks :)
 I've been testing this integration this winter, went thru a few versions working out any bugs, is stable as of the latest HA release.
 Drop this custom integration into your directory and Enjoy :)
+
+Since I use this now, if any issues crop up or changes in Home Assistant, let me know and I'll update this component ASAP
+
 ## Screenshots
 
 ### Integration Setup
