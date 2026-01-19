@@ -1,0 +1,7 @@
+{
+  "domain": "smart_oil_gauge",
+  "name": "Smart Oil Gauge",
+  "version": "1.0.8",
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
