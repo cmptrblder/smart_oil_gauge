@@ -6,6 +6,8 @@ Drop this custom integration into your directory and Enjoy :)
 
 Since I use this now, if any issues crop up or changes in Home Assistant, let me know and I'll update this component ASAP
 
+Add my REPO to HACS, https://github.com/cmptrblder/smart_oil_gauge
+
 ## Screenshots
 
 ### Integration Setup
