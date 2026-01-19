@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Oil Gauge",
+        "description": "Enter your Smart Oil Gauge credentials.",
+        "data": {
+          "username": "Username or Email",
+          "password": "Password"
+        }
+      }
+    }
+  }
+}
