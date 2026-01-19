@@ -42,7 +42,7 @@ information from your Smart Oil Gauge account using a secure, UI-based setup.
 1. Open **HACS**
 2. Go to **Integrations**
 3. Click **Custom repositories**
-4. Add:
+4. Add: https://github.com/cmptrblder/smart_oil_gauge
 5. Category: **Integration**
 6. Install **Smart Oil Gauge**
 7. Restart Home Assistant
